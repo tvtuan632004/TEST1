@@ -5,4 +5,5 @@ rf = Roboflow(api_key="8uJrMofRiffglr0h4ndm")
 project = rf.workspace("marta-capito").project("airbus-ship-detection-5kzoi")
 version = project.version(2)
 dataset = version.download("yolov8-obb")
-                
+
+Link output : https://drive.google.com/drive/folders/1WFaEHW4BKm54B8Y1boTAd1OXx5wdcx5D?usp=sharing
