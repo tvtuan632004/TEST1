@@ -1,4 +1,7 @@
+"Ở phần task 2 vì không thể up được file tif với dung lượng lớn nên em phải tải lên driver rồi em để trong file data.txt  và data em lấy ở robofon task 2 vì không thể up được file tif với dung lượng lớn nên em phải tải lên driver rồi em để trong file data.txt  và data em lấy ở roboflow"
+
 NHẬN DIỆN TÀU THUYỀN TỪ DỮ LIỆU VIỄN THÁM
+
 PHẦN 1: TASK 1 - TIỀN XỬ LÝ DỮ LIỆU VỆ TÌNH
 1. Mục tiêu
 Chuyển đổi dữ liệu vệ tinh thô từ định dạng 16-bit sang 8-bit, thực hiện tổ hợp màu tự nhiên  và giữ nguyên hệ tọa độ tham chiếu (CRS) để phục vụ cho các bước phân tích không gian tiếp theo.
